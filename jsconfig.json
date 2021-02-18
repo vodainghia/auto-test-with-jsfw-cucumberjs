@@ -1,0 +1,10 @@
+{
+  "include": [
+    "**/**/*.js",
+    "**/*.json",
+    "node_modules/webdriverio",
+    "node_modules/@wdio/cucumber-framework",
+    "src/pages/login.page.js",
+    "src/pages/login.page.js", "src/pages/base.Page.js", "src/pages/base.Page.js"
+  ]
+}
